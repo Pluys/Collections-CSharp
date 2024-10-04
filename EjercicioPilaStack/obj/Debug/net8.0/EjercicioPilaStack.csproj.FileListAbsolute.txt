@@ -1,0 +1,14 @@
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\EjercicioPilaStack\bin\Debug\net8.0\EjercicioPilaStack.exe
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\EjercicioPilaStack\bin\Debug\net8.0\EjercicioPilaStack.deps.json
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\EjercicioPilaStack\bin\Debug\net8.0\EjercicioPilaStack.runtimeconfig.json
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\EjercicioPilaStack\bin\Debug\net8.0\EjercicioPilaStack.dll
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\EjercicioPilaStack\bin\Debug\net8.0\EjercicioPilaStack.pdb
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\EjercicioPilaStack\obj\Debug\net8.0\EjercicioPilaStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\EjercicioPilaStack\obj\Debug\net8.0\EjercicioPilaStack.AssemblyInfoInputs.cache
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\EjercicioPilaStack\obj\Debug\net8.0\EjercicioPilaStack.AssemblyInfo.cs
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\EjercicioPilaStack\obj\Debug\net8.0\EjercicioPilaStack.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\EjercicioPilaStack\obj\Debug\net8.0\EjercicioPilaStack.dll
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\EjercicioPilaStack\obj\Debug\net8.0\refint\EjercicioPilaStack.dll
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\EjercicioPilaStack\obj\Debug\net8.0\EjercicioPilaStack.pdb
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\EjercicioPilaStack\obj\Debug\net8.0\EjercicioPilaStack.genruntimeconfig.cache
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\EjercicioPilaStack\obj\Debug\net8.0\ref\EjercicioPilaStack.dll

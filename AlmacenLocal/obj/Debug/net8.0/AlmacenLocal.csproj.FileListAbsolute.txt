@@ -1,0 +1,14 @@
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\AlmacenLocal\bin\Debug\net8.0\AlmacenLocal.exe
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\AlmacenLocal\bin\Debug\net8.0\AlmacenLocal.deps.json
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\AlmacenLocal\bin\Debug\net8.0\AlmacenLocal.runtimeconfig.json
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\AlmacenLocal\bin\Debug\net8.0\AlmacenLocal.dll
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\AlmacenLocal\bin\Debug\net8.0\AlmacenLocal.pdb
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\AlmacenLocal\obj\Debug\net8.0\AlmacenLocal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\AlmacenLocal\obj\Debug\net8.0\AlmacenLocal.AssemblyInfoInputs.cache
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\AlmacenLocal\obj\Debug\net8.0\AlmacenLocal.AssemblyInfo.cs
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\AlmacenLocal\obj\Debug\net8.0\AlmacenLocal.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\AlmacenLocal\obj\Debug\net8.0\AlmacenLocal.dll
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\AlmacenLocal\obj\Debug\net8.0\refint\AlmacenLocal.dll
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\AlmacenLocal\obj\Debug\net8.0\AlmacenLocal.pdb
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\AlmacenLocal\obj\Debug\net8.0\AlmacenLocal.genruntimeconfig.cache
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\AlmacenLocal\obj\Debug\net8.0\ref\AlmacenLocal.dll

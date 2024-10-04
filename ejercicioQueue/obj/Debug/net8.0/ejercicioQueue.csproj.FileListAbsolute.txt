@@ -1,0 +1,14 @@
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\ejercicioQueue\bin\Debug\net8.0\ejercicioQueue.exe
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\ejercicioQueue\bin\Debug\net8.0\ejercicioQueue.deps.json
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\ejercicioQueue\bin\Debug\net8.0\ejercicioQueue.runtimeconfig.json
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\ejercicioQueue\bin\Debug\net8.0\ejercicioQueue.dll
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\ejercicioQueue\bin\Debug\net8.0\ejercicioQueue.pdb
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\ejercicioQueue\obj\Debug\net8.0\ejercicioQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\ejercicioQueue\obj\Debug\net8.0\ejercicioQueue.AssemblyInfoInputs.cache
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\ejercicioQueue\obj\Debug\net8.0\ejercicioQueue.AssemblyInfo.cs
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\ejercicioQueue\obj\Debug\net8.0\ejercicioQueue.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\ejercicioQueue\obj\Debug\net8.0\ejercicioQueue.dll
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\ejercicioQueue\obj\Debug\net8.0\refint\ejercicioQueue.dll
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\ejercicioQueue\obj\Debug\net8.0\ejercicioQueue.pdb
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\ejercicioQueue\obj\Debug\net8.0\ejercicioQueue.genruntimeconfig.cache
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\ejercicioQueue\obj\Debug\net8.0\ref\ejercicioQueue.dll

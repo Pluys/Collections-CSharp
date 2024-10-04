@@ -1,0 +1,28 @@
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\stringsquestionmark\bin\Debug\net8.0\stringsquestionmark.exe
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\stringsquestionmark\bin\Debug\net8.0\stringsquestionmark.deps.json
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\stringsquestionmark\bin\Debug\net8.0\stringsquestionmark.runtimeconfig.json
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\stringsquestionmark\bin\Debug\net8.0\stringsquestionmark.dll
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\stringsquestionmark\bin\Debug\net8.0\stringsquestionmark.pdb
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\stringsquestionmark\obj\Debug\net8.0\stringsquestionmark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\stringsquestionmark\obj\Debug\net8.0\stringsquestionmark.AssemblyInfoInputs.cache
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\stringsquestionmark\obj\Debug\net8.0\stringsquestionmark.AssemblyInfo.cs
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\stringsquestionmark\obj\Debug\net8.0\stringsquestionmark.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\stringsquestionmark\obj\Debug\net8.0\stringsquestionmark.dll
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\stringsquestionmark\obj\Debug\net8.0\refint\stringsquestionmark.dll
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\stringsquestionmark\obj\Debug\net8.0\stringsquestionmark.pdb
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\stringsquestionmark\obj\Debug\net8.0\stringsquestionmark.genruntimeconfig.cache
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\stringsquestionmark\obj\Debug\net8.0\ref\stringsquestionmark.dll
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\stringsquestionmark\bin\Debug\net8.0\stringsquestionmark.exe
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\stringsquestionmark\bin\Debug\net8.0\stringsquestionmark.deps.json
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\stringsquestionmark\bin\Debug\net8.0\stringsquestionmark.runtimeconfig.json
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\stringsquestionmark\bin\Debug\net8.0\stringsquestionmark.dll
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\stringsquestionmark\bin\Debug\net8.0\stringsquestionmark.pdb
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\stringsquestionmark\obj\Debug\net8.0\stringsquestionmark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\stringsquestionmark\obj\Debug\net8.0\stringsquestionmark.AssemblyInfoInputs.cache
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\stringsquestionmark\obj\Debug\net8.0\stringsquestionmark.AssemblyInfo.cs
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\stringsquestionmark\obj\Debug\net8.0\stringsquestionmark.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\stringsquestionmark\obj\Debug\net8.0\stringsquestionmark.dll
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\stringsquestionmark\obj\Debug\net8.0\refint\stringsquestionmark.dll
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\stringsquestionmark\obj\Debug\net8.0\stringsquestionmark.pdb
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\stringsquestionmark\obj\Debug\net8.0\stringsquestionmark.genruntimeconfig.cache
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\stringsquestionmark\obj\Debug\net8.0\ref\stringsquestionmark.dll

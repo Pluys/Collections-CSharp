@@ -1,0 +1,28 @@
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\Ana\bin\Debug\net8.0\Ana.exe
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\Ana\bin\Debug\net8.0\Ana.deps.json
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\Ana\bin\Debug\net8.0\Ana.runtimeconfig.json
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\Ana\bin\Debug\net8.0\Ana.dll
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\Ana\bin\Debug\net8.0\Ana.pdb
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\Ana\obj\Debug\net8.0\Ana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\Ana\obj\Debug\net8.0\Ana.AssemblyInfoInputs.cache
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\Ana\obj\Debug\net8.0\Ana.AssemblyInfo.cs
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\Ana\obj\Debug\net8.0\Ana.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\Ana\obj\Debug\net8.0\Ana.dll
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\Ana\obj\Debug\net8.0\refint\Ana.dll
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\Ana\obj\Debug\net8.0\Ana.pdb
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\Ana\obj\Debug\net8.0\Ana.genruntimeconfig.cache
+C:\Users\estudiante\Desktop\asdfawrg\basura mia\Ana\obj\Debug\net8.0\ref\Ana.dll
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\Ana\bin\Debug\net8.0\Ana.exe
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\Ana\bin\Debug\net8.0\Ana.deps.json
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\Ana\bin\Debug\net8.0\Ana.runtimeconfig.json
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\Ana\bin\Debug\net8.0\Ana.dll
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\Ana\bin\Debug\net8.0\Ana.pdb
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\Ana\obj\Debug\net8.0\Ana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\Ana\obj\Debug\net8.0\Ana.AssemblyInfoInputs.cache
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\Ana\obj\Debug\net8.0\Ana.AssemblyInfo.cs
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\Ana\obj\Debug\net8.0\Ana.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\Ana\obj\Debug\net8.0\Ana.dll
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\Ana\obj\Debug\net8.0\refint\Ana.dll
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\Ana\obj\Debug\net8.0\Ana.pdb
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\Ana\obj\Debug\net8.0\Ana.genruntimeconfig.cache
+C:\Users\estudiante\Desktop\Dev\C# (2do Cuatrimestre)\Practicas\Ana\obj\Debug\net8.0\ref\Ana.dll

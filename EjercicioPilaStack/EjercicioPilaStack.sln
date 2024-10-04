@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioPilaStack", "EjercicioPilaStack.csproj", "{3C20AA93-5822-440D-BA8E-32A8E4AD2426}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C20AA93-5822-440D-BA8E-32A8E4AD2426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C20AA93-5822-440D-BA8E-32A8E4AD2426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C20AA93-5822-440D-BA8E-32A8E4AD2426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C20AA93-5822-440D-BA8E-32A8E4AD2426}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A4FD7E7-876C-4ECC-B85C-5DFAB75D6F4E}
+	EndGlobalSection
+EndGlobal
